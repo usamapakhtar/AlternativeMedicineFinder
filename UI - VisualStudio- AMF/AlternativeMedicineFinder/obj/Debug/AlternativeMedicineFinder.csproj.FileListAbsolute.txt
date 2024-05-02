@@ -1,0 +1,11 @@
+C:\Users\usama\PycharmProjects\pythonautomation\Medicines App\TestMed\Final Interface\AlternativeMedicineFinder\AlternativeMedicineFinder\bin\Debug\AlternativeMedicineFinder.exe.config
+C:\Users\usama\PycharmProjects\pythonautomation\Medicines App\TestMed\Final Interface\AlternativeMedicineFinder\AlternativeMedicineFinder\bin\Debug\AlternativeMedicineFinder.exe
+C:\Users\usama\PycharmProjects\pythonautomation\Medicines App\TestMed\Final Interface\AlternativeMedicineFinder\AlternativeMedicineFinder\bin\Debug\AlternativeMedicineFinder.pdb
+C:\Users\usama\PycharmProjects\pythonautomation\Medicines App\TestMed\Final Interface\AlternativeMedicineFinder\AlternativeMedicineFinder\obj\Debug\AlternativeMedicineFinder.csproj.AssemblyReference.cache
+C:\Users\usama\PycharmProjects\pythonautomation\Medicines App\TestMed\Final Interface\AlternativeMedicineFinder\AlternativeMedicineFinder\obj\Debug\AlternativeMedicineFinder.csproj.SuggestedBindingRedirects.cache
+C:\Users\usama\PycharmProjects\pythonautomation\Medicines App\TestMed\Final Interface\AlternativeMedicineFinder\AlternativeMedicineFinder\obj\Debug\AlternativeMedicineFinder.Properties.Resources.resources
+C:\Users\usama\PycharmProjects\pythonautomation\Medicines App\TestMed\Final Interface\AlternativeMedicineFinder\AlternativeMedicineFinder\obj\Debug\AlternativeMedicineFinder.csproj.GenerateResource.cache
+C:\Users\usama\PycharmProjects\pythonautomation\Medicines App\TestMed\Final Interface\AlternativeMedicineFinder\AlternativeMedicineFinder\obj\Debug\AlternativeMedicineFinder.csproj.CoreCompileInputs.cache
+C:\Users\usama\PycharmProjects\pythonautomation\Medicines App\TestMed\Final Interface\AlternativeMedicineFinder\AlternativeMedicineFinder\obj\Debug\AlternativeMedicineFinder.exe
+C:\Users\usama\PycharmProjects\pythonautomation\Medicines App\TestMed\Final Interface\AlternativeMedicineFinder\AlternativeMedicineFinder\obj\Debug\AlternativeMedicineFinder.pdb
+C:\Users\usama\PycharmProjects\pythonautomation\Medicines App\TestMed\Final Interface\AlternativeMedicineFinder\AlternativeMedicineFinder\obj\Debug\AlternativeMedicineFinder.Form1.resources
