@@ -1,14 +1,16 @@
 # AlternativeMedicineFinder
-This project aims to create a platform for finding alternative medicines with similar ingredients, addressing the common issue of unavailable medications in pharmacies.
 
-The project has been done in 4 steps.
+This project aims to develop a platform that assists users in finding alternative medications with similar ingredients. The platform addresses the common challenge of drug shortages in pharmacies.
 
-1 - Data Extraction
+**Project Methodology**
 
-2 - Data Cleaning
+The project was executed in four primary phases:
 
-3 - Data Base Development
+**1- Data Acquisition and Preprocessing:** Relevant medication data was extracted from various sources and subsequently cleaned to ensure data integrity. These steps were conducted using Google Colab or Pycharm.
 
-4 - Developing an UI
+**2- Database Development:** A robust database was constructed using Microsoft SQL Server Management Studio 18 to efficiently store and manage the processed medication data.
 
-The first two steps (Data Extraction and data Cleaning) can be performed using Google Collab or Pycharm, as you like. For the third step, I developed a database using Microsoft SQL Server Management Studio 18, and for the last step, I used Visual Studio to develop an application that connects to the database to give back alternative medicine options.
+**3- User Interface Development:** A user-friendly application was created using Visual Studio to provide an intuitive interface for searching and identifying alternative medications. The application seamlessly integrates with the backend database.
+
+**4- System Integration and Testing:** The developed components were integrated, and rigorous testing was performed to ensure optimal performance and accuracy.
+By following this structured approach, we successfully developed a comprehensive solution to the problem of medication unavailability.
