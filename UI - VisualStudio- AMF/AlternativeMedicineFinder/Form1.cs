@@ -14,7 +14,7 @@ namespace AlternativeMedicineFinder
 {
 	public partial class Form1 : Form
 	{
-		private string connectionString = "Data Source=DESKTOP-M3CE3SM\\SQLEXPRESS;Initial Catalog=Medicines;Integrated Security=SSPI;";
+		private string connectionString = "Data Source=xxxxxxx-xxxxxxx\\SQLEXPRESS;Initial Catalog=Medicines;Integrated Security=SSPI;";
 		public Form1()
 		{
 			InitializeComponent();
